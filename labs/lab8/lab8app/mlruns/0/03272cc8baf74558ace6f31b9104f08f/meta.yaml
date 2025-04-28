@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carlyleong/Desktop/msds/spring_2/ml_ops/labs/lab8/lab8app/mlruns/0/03272cc8baf74558ace6f31b9104f08f/artifacts
+end_time: 1745879772563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03272cc8baf74558ace6f31b9104f08f
+run_name: abundant-snake-69
+run_uuid: 03272cc8baf74558ace6f31b9104f08f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745879768985
+status: 3
+tags: []
+user_id: carlyleong

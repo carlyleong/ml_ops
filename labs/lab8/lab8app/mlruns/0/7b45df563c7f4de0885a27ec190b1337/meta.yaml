@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carlyleong/Desktop/msds/spring_2/ml_ops/labs/lab8/lab8app/mlruns/0/7b45df563c7f4de0885a27ec190b1337/artifacts
+end_time: 1745879354657
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b45df563c7f4de0885a27ec190b1337
+run_name: painted-quail-41
+run_uuid: 7b45df563c7f4de0885a27ec190b1337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745879351302
+status: 3
+tags: []
+user_id: carlyleong

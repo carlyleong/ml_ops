@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/carlyleong/Desktop/msds/spring_2/ml_ops/labs/lab8/lab8app/mlruns/0/265ac7a3aac444bf963a8dfac7bc8a13/artifacts
+end_time: 1745882478697
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 265ac7a3aac444bf963a8dfac7bc8a13
+run_name: thundering-crane-116
+run_uuid: 265ac7a3aac444bf963a8dfac7bc8a13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745882476502
+status: 3
+tags: []
+user_id: carlyleong
