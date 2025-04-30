@@ -1,0 +1,15 @@
+# reddit_service.yaml
+
+apiVersion: v1
+kind: Service
+metadata:
+  name: reddit-service
+spec:
+  type: LoadBalancer  # ✅ Required for external access
+  selector:
+    app: reddit
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 8000
+
